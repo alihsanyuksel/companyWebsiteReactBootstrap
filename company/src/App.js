@@ -1,15 +1,14 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-
-import Badge from 'react-bootstrap/Badge';
+import AppHeader from './components/header';
 
 function App() {
   return (
     <div className="App">
-      <h1>
-        Example heading <Badge bg="secondary">New</Badge>
-      </h1>
+      <header id="header">
+        < AppHeader />
+      </header>
     </div>
   );
 }

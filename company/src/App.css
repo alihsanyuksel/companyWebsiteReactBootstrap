@@ -413,6 +413,11 @@ textarea {
   line-height: 20px;
 }
 
+.dropdown-item{
+  font-size: 14px;
+  line-height: 20px;
+}
+
 #header .navbar-collapse a:last-child {
   padding-right: 0;
 }

@@ -36,7 +36,7 @@ export default function AppContact () {
                     </Form>
             </Container>
             <div className='google-map'>
-            <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195884.30043115298!2d32.59795715939683!3d39.9035232979178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d347d520732db1%3A0xbdc57b0c0842b8d!2sAnkara!5e0!3m2!1sen!2str!4v1699215110415!5m2!1sen!2str"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195884.30043115298!2d32.59795715939683!3d39.9035232979178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d347d520732db1%3A0xbdc57b0c0842b8d!2sAnkara!5e0!3m2!1sen!2str!4v1699215110415!5m2!1sen!2str"  allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <Container fluid>
                 <div className='contact-info'>
